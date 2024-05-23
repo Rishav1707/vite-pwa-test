@@ -22,7 +22,7 @@
       "src": "/maskable_icon.png",
       "sizes": "64x64",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "theme_color": "#ffffff",
