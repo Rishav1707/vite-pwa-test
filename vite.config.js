@@ -33,6 +33,7 @@ export default defineConfig({
             src: "/maskable_icon.png",
             sizes: "64x64",
             type: "image/png",
+            purpose: "any maskable",
           },
         ],
         theme_color: "#ffffff",
